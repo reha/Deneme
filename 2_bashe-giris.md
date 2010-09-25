@@ -1,4 +1,4 @@
-#2) bash'e Giriş
+#bash'e Giriş
 
 ##Kabuk
 
