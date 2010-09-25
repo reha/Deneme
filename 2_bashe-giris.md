@@ -4,7 +4,7 @@
 
 Linux komut satırına girdiğinizde aşağıdakine benzer bir komut satırı ile karşılaşırsınız;
 
-`$`
+    $
 
 Bunu görüntüleyen programa kabuk (shell) denir. Büyük ihtimalle sisteminiz bash kabuğu ile sizi karşılayacaktır. Bunu kontrol etmek için komut satırına şunu yazınız;
 
